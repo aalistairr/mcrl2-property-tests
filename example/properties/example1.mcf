@@ -1,0 +1,5 @@
+[true*.c.!a*.b]false
+
+%! PASS c.a.b
+%! PASS b
+%! FAIL a.b.c.b

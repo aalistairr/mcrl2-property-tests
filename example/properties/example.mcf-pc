@@ -1,0 +1,6 @@
+%! PROP example1
+%! PROP example2
+
+%! PASS c.a.b
+%! FAIL b
+%! FAIL a.b.c.b
